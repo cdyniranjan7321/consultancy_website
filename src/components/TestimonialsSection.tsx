@@ -5,7 +5,7 @@ import { Quote } from "lucide-react";
 const testimonials = [
   {
     quote: "ApexConsul transformed our go-to-market strategy. Revenue grew 40% within the first year of engagement.",
-    name: "Sarah Chen",
+    name: "Elena Rodriguez",
     role: "CEO, NovaTech Solutions",
   },
   {
