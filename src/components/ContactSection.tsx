@@ -69,7 +69,7 @@ const ContactSection = () => {
             {[
               { icon: Mail, label: "Email", value: "hello@apexconsul.com" },
               { icon: Phone, label: "Phone", value: "+977 9804199658" },
-              { icon: MapPin, label: "Office", value: "350 Fifth Avenue, Pokhara, Kaski 10118" },
+              { icon: MapPin, label: "Office", value: "357 Fifth Avenue, Pokhara, Kaski 101" },
             ].map((item) => (
               <div key={item.label} className="flex items-start gap-4">
                 <div className="w-10 h-10 rounded-md bg-primary/10 flex items-center justify-center shrink-0">
