@@ -15,7 +15,7 @@ const testimonials = [
   },
   {
     quote: "Working with ApexConsul felt like adding a world-class strategy team overnight. Truly exceptional.",
-    name: "Elena Rodriguez",
+    name: "Niranjan Chaudhary",
     role: "Managing Director, Atlas Group",
   },
 ];
