@@ -1,3 +1,4 @@
+
 import { motion } from "framer-motion";
 import { TrendingUp, Users, BarChart3, Lightbulb, Shield, Globe } from "lucide-react";
 
